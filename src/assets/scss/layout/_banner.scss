@@ -354,7 +354,7 @@
 
 	#bannerus {
 		@include vendor('align-items', 'center');
-		@include vendor('background-image', 'url("../images/bannerus.png")');
+		@include vendor('background-image', 'url("../images/Bannerus.png")');
 		@include vendor('display', 'flex');
 		@include padding(4em, 0, (2em, 0, 0, 0));
 		background-attachment: fixed;
@@ -526,7 +526,7 @@
 
 	#bannerct {
 		@include vendor('align-items', 'center');
-		@include vendor('background-image', 'url("../images/bannerct.png")');
+		@include vendor('background-image', 'url("../images/Bannerct.png")');
 		@include vendor('display', 'flex');
 		@include padding(4em, 0, (2em, 0, 0, 0));
 		background-attachment: fixed;
