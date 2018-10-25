@@ -6,7 +6,7 @@ import BannerLanding from '../components/BannerLandingct'
 
 import pic08 from '../assets/images/team.png'
 import pic09 from '../assets/images/jake.png'
-import pic10 from '../assets/images/truck.png'
+import pic10 from '../assets/images/Truck.png'
 
 const Landing = (props) => (
     <Layout>
