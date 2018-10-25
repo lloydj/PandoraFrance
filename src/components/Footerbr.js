@@ -10,7 +10,7 @@ const Footer = (props) => (
                 <li><a href="#" className="icon alt fa-linkedin"><span className="label">LinkedIn</span></a></li>
             </ul>
             <ul className="copyright">
-                <li>&copy; Pandora France</li> <li> SIREN: 843 098 245 SIRET: 843 098 245 00015 </li>
+                <li>&copy; Pandora Brasil</li> <li>CNPJ: </li>
             </ul>
         </div>
     </footer>

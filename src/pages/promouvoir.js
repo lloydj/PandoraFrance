@@ -1,8 +1,8 @@
 import React from 'react'
 import Helmet from 'react-helmet'
 import Layout from '../components/layouts'
-import pic44 from '../assets/images/pic11.jpg'
-import pic08 from '../assets/images/Iphone02.png'
+import pic44 from '../assets/images/Promote-01.png'
+import pic08 from '../assets/images/Promote-02.png'
 
 const Proteger = (props) => (
     <Layout>

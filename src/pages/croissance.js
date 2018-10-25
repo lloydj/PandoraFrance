@@ -2,8 +2,8 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import Layout from '../components/layouts'
 
-import pic44 from '../assets/images/pic11.jpg'
-import pic08 from '../assets/images/pic11.jpg'
+import pic44 from '../assets/images/croissance-01.png'
+import pic08 from '../assets/images/croissance-02.png'
 
 const Proteger = (props) => (
     <Layout>
@@ -53,8 +53,8 @@ const Proteger = (props) => (
 
 
                     <ul className="pagination">
-                                    <li><span className="button small disabled">Croissance</span></li>
                                     
+                                    <li><a href="/position" className="button small">Position</a></li>
                                     <li><a href="/promouvoir" className="button small">promouvoir</a></li>
                                     <li><a href="/proteger" className="button small">Protéger</a></li>
                                  
@@ -62,20 +62,7 @@ const Proteger = (props) => (
                 </div>
             </section>
 
-                                        <div className="box alt">
-                                    <div className="grid-wrapper">
-                                        <div className="col-4">
-                                        <span className="image fit"><img src={pic08} alt="" /></span>
-                                        <h2>PROTÉGER</h2>
-                                        <p>
-                                            L'intégrité de votre marque pour garder une longueur d'avance.
-                                        </p>
-                                        </div>
-                                        <div className="col-4"><span className="image fit"><img src={pic08} alt="" /></span></div>
-                                        <div className="col-4"><span className="image fit"><img src={pic08} alt="" /></span></div>
-                                   
-                                    </div>
-                                </div>
+                          
         </div>
 
     </Layout>

@@ -2,8 +2,8 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import Layout from '../components/layouts'
 import { Link } from 'gatsby'
-import pic08 from '../assets/images/pic08.jpg'
-import pic44 from '../assets/images/pic44.png'
+import pic08 from '../assets/images/Proteger-02.png'
+import pic44 from '../assets/images/Proteger-01.png'
 
 const Proteger = (props) => (
     <Layout>

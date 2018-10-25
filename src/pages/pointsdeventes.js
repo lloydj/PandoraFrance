@@ -4,9 +4,9 @@ import Helmet from 'react-helmet'
 import Layout from '../components/layouts'
 import BannerLanding from '../components/BannerLanding'
 
-import pic08 from '../assets/images/Iphone01.png'
+import pic08 from '../assets/images/phone1.png'
 import pic09 from '../assets/images/Iphone02.png'
-import pic10 from '../assets/images/Mac.png'
+import pic10 from '../assets/images/stats.png'
  
 const Landing = (props) => (
     <Layout>
