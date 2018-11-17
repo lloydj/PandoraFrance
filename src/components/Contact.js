@@ -44,14 +44,14 @@ const Contact = (props) => (
                     <div className="contact-method">
                         <span className="icon alt fa-envelope"></span>
                         <h3>Email</h3>
-                        <a href="#">philippe@pandorafr.com</a>
+                        <a href="#">philippe@pandoraretail.com</a>
                     </div>
                 </section>
                 <section>
                     <div className="contact-method">
                         <span className="icon alt fa-phone"></span>
                         <h3>Téléphone</h3>
-                        <span>(+33) 445-490 x12387</span>
+                        <span>06 56 89 75 73</span>
                     </div>
                 </section>
                 <section>
