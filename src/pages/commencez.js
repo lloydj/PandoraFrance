@@ -5,7 +5,7 @@ import Layout from '../components/layout'
 import BannerLanding from '../components/BannerLanding'
 
 import pic08 from '../assets/images/shoes.png'
-import pic09 from '../assets/images/pic09.jpg'
+import pic09 from '../assets/images/logos.png'
 import pic10 from '../assets/images/pic10.jpg'
 
 const Landing = (props) => (
@@ -38,7 +38,13 @@ const Landing = (props) => (
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Cesser d'être une marchandise, Devenez une marque</h3>
+                                <h3>
+                                    Cesser d'être une marchandise, Devenez une marque
+                                </h3>
+                                <h4>
+                                Il nous ont fait confiance 
+                                </h4>
+                                <img src={pic09} alt="" />
                             </header>
                         </div>
                     </div>
