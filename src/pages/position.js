@@ -58,7 +58,7 @@ const Proteger = (props) => (
 
                     <p>
                         Drop ship est une approche holistique et à faible risque du commerce électronique qui permet
-                        à etailz d'offrir l'ensemble de votre catalogue sur les marchés. Souvent, les détaillants 
+                        à Pandora d'offrir l'ensemble de votre catalogue sur les marchés. Souvent, les détaillants 
                         n'achètent que vos meilleurs produits, mais grâce à notre service de livraison directe, nous
                         pouvons représenter tous vos produits, augmentant ainsi la présence de votre marque et capturant
                         des ventes supplémentaires.
@@ -77,6 +77,7 @@ const Proteger = (props) => (
                                     
                                     <li><a href="/croissance" className="button small">Croissance</a></li>
                                     <li><a href="/proteger" className="button small">Protéger</a></li>
+                                    
                                  
                                 </ul>
                 </div>

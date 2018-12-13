@@ -39,7 +39,16 @@
 		&.fit {
 			display: block;
 			margin: 0 0 _size(element-margin) 0;
-			width: 100%;
+			width: 150%;
+
+			img {
+				width: 100%;
+			}
+		}
+		&.fitted {
+			display: block;
+			margin: 0 0 _size(element-margin) 0;
+			width: 150%;
 
 			img {
 				width: 100%;
