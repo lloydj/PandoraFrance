@@ -5,7 +5,7 @@ import Layout from '../components/layouts'
 import BannerLanding from '../components/BannerLandingct'
 
 import pic08 from '../assets/images/team.png'
-import pic09 from '../assets/images/jake.png'
+import pic09 from '../assets/images/PhilnLloyd.png'
 import pic10 from '../assets/images/Truck.png'
 
 const Landing = (props) => (
@@ -25,7 +25,7 @@ const Landing = (props) => (
                     </header>
                     <p>
                         Grâce à une passion incroyable, une ténacité absolue et une mentalité de bootstrap, Pandora
-                        a connu une croissance continue et rentable depuis sa fondation en 2015. Notre équipe reste
+                        a connu une croissance continue et rentable depuis sa fondation en 2016. Notre équipe reste
                         animée par la culture travaillante, curieuse et pleine d'entrain que nous entretenons depuis
                         le premier jour. Ce dévouement à la culture et à l'innovation a permis à etailz de devenir 
                         le leader de la distribution et de l'expertise sur le marché.
@@ -64,13 +64,16 @@ const Landing = (props) => (
                                 <h3>NOTRE HISTOIRE</h3>
                             </header>
                             <p>
-                                Il y a trois ans, le concept de Pandora a été présenté comme un plan d'affaires par deux diplômés
-                                du collège et leur professeur. Après beaucoup d'apprentissage, d'adaptation et de perfectionnement,
+                                le concept pandora a été créé à partir des opportunités évidentes que Philippe, le fondateur, voyait dans le
+                                commerce électronique alors qu'il vivait à Montréal.  De retour à Paris, avec l'aide de son jeune frère Lloyd,
+                                ils ont décidé de prendre un risque calculé et ont construit cette nouvelle option pour permettre aux petites
+                                et moyennes marques de vendre et d'être visibles en ligne. L'objectif est d'uniformiser les règles du jeu
+                                pour tous et de vous permettre d'atteindre de nouveaux clients. Après beaucoup d'apprentissage, d'adaptation
+                                et de perfectionnement,
                                 nous avons fait de Pandora le détaillant le plus sophistiqué sur Amazon, Jet, eBay, Walmart et Wish,
-                                et nous n'avons pas l'intention de ralentir. Nos employés sont alimentés par une énergie innovatrice,
-                                des solutions créatives et une détermination sans bornes à surpasser les attentes. Cette passion 
+                                et nous n'avons pas l'intention de ralentir. Cette passion 
                                 incroyable et cette approche honnête ont permis à Pandora de se positionner comme le partenaire de
-                                confiance sur le marché de la vente au détail de nombreuses grandes marques.                                
+                                confiance sur le marché de la vente au détail de nombreuses marques.                                
                             </p>
                             <ul className="actions">
                                
